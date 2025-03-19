@@ -28,7 +28,7 @@ This repository is a collection of different techniques and libraries for displa
 ## Folder Structure
 
 Below is an overview of how the project is organized:
-
+```bash
 .
 ├── public/
 │   └── ...                # Static assets (e.g., icons, images, etc.)
