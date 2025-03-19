@@ -53,8 +53,8 @@ Below is an overview of how the project is organized:
 
 - **`public/`**: Houses static files that Vite will serve as-is.  
 - **`src/approaches/`**: Each subfolder represents a unique method or library used to display map data.
-
----
+```
+---```
 
 ## Approaches
 
