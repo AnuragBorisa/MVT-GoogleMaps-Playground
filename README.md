@@ -117,7 +117,7 @@ This project is open-sourced under the **MIT License**.
 
 ## Contact
 
-- **Your Name** – [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
+- **Anurag Borisa** – [@AxN](https://www.linkedin.com/in/anurag-borisa-401788200/)  
 - For any questions or feedback, feel free to open an issue or reach out via social media.
 
 _Enjoy experimenting with vector tiles, deck.gl, OpenLayers, and raster data!_
